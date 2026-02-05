@@ -1,0 +1,12 @@
+# Templates DOCX Folder
+
+Contient les versions Word modifiables des CV.
+
+Structure identique à templates-pdf/ mais en .docx :
+```
+templates-docx/
+├── originaux/
+└── variations/
+```
+
+Conversion : PDF → DOCX via CloudConvert ou Zamzar

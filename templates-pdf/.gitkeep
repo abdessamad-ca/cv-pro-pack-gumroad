@@ -1,0 +1,19 @@
+# Templates PDF Folder
+
+Structure :
+```
+templates-pdf/
+├── originaux/
+│   ├── 01-Classic.pdf
+│   ├── 02-Modern.pdf
+│   ├── 03-Infographics.pdf
+│   ├── 04-Sidebar.pdf
+│   ├── 05-Rows.pdf
+│   └── 06-TwoColumn.pdf
+└── variations/
+    ├── Bleu-Corporate/ (6 PDFs)
+    ├── Vert-Emeraude/ (6 PDFs)
+    └── Rouge-Bordeaux/ (6 PDFs)
+```
+
+Total : 24 fichiers PDF
